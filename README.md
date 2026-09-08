@@ -1,6 +1,6 @@
 # Prompt Engineering
 
-This repository contains my Prompt Engineering Reports and tasks that are completed as part of my Generative AI Internship.
+This repository contains my Prompt Engineering Reports and Experiments that are completed as part of my Generative AI Internship.
 
 ## Experiments
 
